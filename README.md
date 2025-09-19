@@ -69,7 +69,7 @@ This technology **eliminates reshoots and additional cast**, enabling creators t
     <tbody>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/6f1ca784-1e79-4982-a654-039ac19a01ad" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
